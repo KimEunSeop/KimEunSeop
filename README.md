@@ -1,4 +1,11 @@
 ## Welcome to my page 👋
+I'm Eunseop Kim, and I want to the Happiest Engineer
+## 🌱 I’m currently learning ...
+
+## 📫 How to reach me: ...
+
+Email: doosan1112@naver.com
+Instagram: https://www.instagram.com/ou.sub/
 
 
 
