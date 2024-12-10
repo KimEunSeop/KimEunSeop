@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-I'm Eunseop Kim, and I want to be the happiest engineer.
+I'm Eunseop Kim, and I want to be the happiest engineer 😄😄.
 
 My major is Computer Science and engineering. I'm 3th grade in KOREATECH. 
 
