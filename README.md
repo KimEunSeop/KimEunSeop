@@ -2,10 +2,7 @@
 
 I'm Eunseop Kim, and I want to be the happiest engineer 😄😄.
 
-My major is Computer Science and engineering. I'm 3th grade in KOREATECH. 
-
-## 🌱 I’m currently learning ...
-
+My major is Computer Science and engineering. I'm 4th grade in KOREATECH. 
 
 ## 📫 How to reach me: ...
 
@@ -20,6 +17,9 @@ Instagram: https://www.instagram.com/ou.sub/
 
 
 <!--
+
+## 🌱 I’m currently learning ...
+
 **KimEunSeop/KimEunSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
