@@ -6,7 +6,7 @@ My major is Computer Science and engineering. I'm 4th grade in KOREATECH.
 
 ## 📫 How to reach me: ...
 
-Email: doosan1112@koreatech.ac.kr || doosan1112@naver.com || doosan1112@gmail.com
+Email: doosan1112@naver.com || doosan1112@gmail.com
 
 velog : https://velog.io/@eseop/
 
