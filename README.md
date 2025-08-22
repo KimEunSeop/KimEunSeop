@@ -2,7 +2,7 @@
 
 I'm Eunseop Kim, and I want to be the happiest engineer 😄😄.
 
-My major is Computer Science and engineering. I'm 4th grade in KOREATECH. 
+My major is Computer Science and engineering.
 
 ## 📫 How to reach me: ...
 
